@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(24, 24, 24);
+    color: rgb(255, 255, 255);
+    font-family: sans-serif;
+    font-weight: bold;
+    padding: 0px;
+    margin: 0px;
+}
+
+.topbar{
+    background-color: rgb(31, 31, 31);
+    padding: 10px;
+    display: flex;
+}
+
+.tblogo{
+    padding: 2px;
+}
+
+.tbheader{
+    padding: 5px;
+    margin: 0px;
+}
